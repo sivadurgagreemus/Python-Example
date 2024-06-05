@@ -1,0 +1,3 @@
+a="DEVI"
+print(a)
+

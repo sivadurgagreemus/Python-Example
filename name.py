@@ -1,3 +1,3 @@
-a="DEVI"
+a="DEVI Durga"
 print(a)
 
